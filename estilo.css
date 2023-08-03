@@ -1,0 +1,55 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.botao-azul{
+    background-color: #2500f9; /* cor do fundo */
+    color: #fff; /* cor da letra*/
+    padding: 10px 15px !important;
+    border-radius: 25px; /* borda arrendodada*/ 
+    border: none;
+}
+.botao-azul: :hover{
+    background-color: #2500f9; /* cor do fundo */
+    color: #fff; /* cor da letra*/
+    padding: 10px 15px !important;
+    border-radius: 25px; /* borda arrendodada*/ 
+    border: none;
+}
+.nav-item{
+    margin-left: 20px; /* espaçamento entre as palavras*/
+}
+.navegacao{
+    padding: 20px 50px; /* espassamento*/
+}
+.botao-branco{
+    background-color: #fff; /* cor do fundo */
+    color: #2500f9; /* cor da letra*/
+    padding: 10px 15px !important;
+    border-radius: 25px; /* borda arrendodada*/ 
+    border: none;/* remover borda*/
+}
+.caixa{
+    padding: 50px 100px; /* cima-baixa - direi-esquer*/
+}
+.texto-azul{
+    color: #3f528b;
+}
+#titulo{
+    font-size: 50px; /*tamanho da fonte*/
+    font-weight: 800; /*espessura da fonte*/
+}
+.texto-cinza{
+    color: #616368;
+}
+#principal{
+    background-image: url(img/background2.png), url(img/background1.png);
+    background-repeat: repeat-x;
+    background-position: bottom; /*posiciona a imagem*/
+}
+.subtitulo{
+    font-weight:600 ;
+}
+.titulo-servico{
+    font-weight: 600; /*espessura da fonte*/
+    font-size: 20px; /*tamanho da fonte*/
+}
